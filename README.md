@@ -18,7 +18,7 @@ O Login/Register Website é um projeto usando HTML, CSS e Javascript, com o intu
 
 ## Recursos Usados
 
-- [Ionicons](https://ionic.io/ionicons) - (biblioteca de ícones usada para este projeto)
+- [Ionicons](https://ionic.io/ionicons) - (biblioteca de ícones usada para este projeto).
 
 ## Autor do Projeto
 
