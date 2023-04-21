@@ -17,12 +17,17 @@
     <body>
         <header>
             <h2 class="logo">Logo</h2>
-            <nav class="navigation">
-                <a href="#">Home</a>
-                <a href="#">Sobre</a>
-                <a href="#">Serviços</a>
-                <a href="#">Contato</a>
-                <button class="btnLogin-popup">Entrar</button>
+            <nav id="nav">
+                <button aria-label="Abrir Menu" id="btn-mobile" aria-haspopup="true" aria-controls="menu" aria-expanded="false">Menu
+                  <span id="hamburger"></span>
+                </button>
+                <div id="menu" class="navigation" role="menu">
+                    <a href="#">Home</a>
+                    <a href="#">Sobre</a>
+                    <a href="#">Serviços</a>
+                    <a href="#">Contato</a>
+                    <button class="btnLogin-popup">Entrar</button>
+                </div>
             </nav>
         </header>
 
