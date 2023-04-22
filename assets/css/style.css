@@ -67,6 +67,8 @@ header {
     transform: scaleX(1);
 }
 
+/* Janela Popup */
+
 .navigation .btnLogin-popup {
     width: 130px;
     height: 50px;
